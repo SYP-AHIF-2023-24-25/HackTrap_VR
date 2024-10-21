@@ -17,6 +17,7 @@ Dieses Dokument beschreibt den Sprintplan für das HackTrap-VR-Projekt für das 
 ### **Sprint 02: 21.10.2024 – 25.11.2024**
 - **Encrypt-Game** umbauen und mit VR-Controllerfunktionalität hinzufügen.
 - **Virus-Game** umbauen und mit VR-Controllerfunktionalität hinzufügen.
+- Modelierung der bestehenden Scenes
 
 ### **Sprint 03: 25.11.2024 – 06.01.2025**
 - **TicTacToe-Game** umbauen und mit VR-Controllerfunktionalität hinzufügen.
