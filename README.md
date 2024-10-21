@@ -15,8 +15,12 @@ Dieses Dokument beschreibt den Sprintplan für das HackTrap-VR-Projekt für das 
 - Sich mit der VR-Controllerfunktionalität und Umgebung vertraut machen.
 
 ### **Sprint 02: 21.10.2024 – 25.11.2024**
-- **Encrypt-Game** umbauen und mit VR-Controllerfunktionalität hinzufügen.
+- (**Encrypt-Game** umbauen und mit VR-Controllerfunktionalität hinzufügen.)
+  - Die Buchstaben bewegen sich herum & werden mit dem Controller selektiert
 - **Virus-Game** umbauen und mit VR-Controllerfunktionalität hinzufügen.
+  - Skybox
+  - Im Game: 1-2 Schritte oder Teleport
+  - Viren werden mit Controller (Laserstrahl) abgeschossen & die Viren fliegen in der Luft
 - Modelierung der bestehenden Scenes
 
 ### **Sprint 03: 25.11.2024 – 06.01.2025**
