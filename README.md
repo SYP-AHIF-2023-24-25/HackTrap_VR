@@ -21,7 +21,7 @@ Dieses Dokument beschreibt den Sprintplan für das HackTrap-VR-Projekt für das 
   - Modelierung, Design, Musik, Skybox
   - Timer (60 Sek.)
 
-### **Sprint 03: 25.11.2024 – 06.01.2025**
+### **Sprint 03: 25.11.2024 – 09.01.2025**
 - **TicTacToe-Game** umbauen und mit VR-Controllerfunktionalität hinzufügen.
 - **Encrypt-Game** umbauen und mit VR-Controllerfunktionalität hinzufügen.
   - Die Buchstaben bewegen sich herum & werden mit dem Controller selektiert
